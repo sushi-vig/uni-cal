@@ -7,7 +7,7 @@ import os
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="My Schedule 🌸",
+    page_title="🌸 My Schedule 🌸",
     page_icon=" M",
     layout="wide",
     initial_sidebar_state="auto"
